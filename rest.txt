@@ -1,0 +1,23 @@
+Réception de:1 http://security.ubuntu.com/ubuntu xenial-security InRelease [102 kB]
+Réception de:2 http://security.ubuntu.com/ubuntu xenial-security/restricted amd64 Packages [7.500 B]
+Réception de:3 http://security.ubuntu.com/ubuntu xenial-security/restricted i386 Packages [7.492 B]
+Réception de:4 http://security.ubuntu.com/ubuntu xenial-security/restricted Translation-en [2.412 B]
+Réception de:5 http://security.ubuntu.com/ubuntu xenial-security/universe amd64 Packages [175 kB]
+Réception de:6 http://security.ubuntu.com/ubuntu xenial-security/universe i386 Packages [152 kB]
+Réception de:7 http://security.ubuntu.com/ubuntu xenial-security/universe Translation-en [93,0 kB]
+Réception de:8 http://security.ubuntu.com/ubuntu xenial-security/multiverse amd64 Packages [3.224 B]
+Réception de:9 http://security.ubuntu.com/ubuntu xenial-security/multiverse i386 Packages [3.396 B]
+Réception de:10 http://security.ubuntu.com/ubuntu xenial-security/multiverse Translation-en [1.336 B]
+Atteint:11 http://be.archive.ubuntu.com/ubuntu xenial InRelease
+Réception de:12 http://be.archive.ubuntu.com/ubuntu xenial-updates InRelease [102 kB]
+Réception de:13 http://be.archive.ubuntu.com/ubuntu xenial-backports InRelease [102 kB]
+Réception de:14 http://be.archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages [643 kB]
+Réception de:15 http://be.archive.ubuntu.com/ubuntu xenial-updates/main i386 Packages [611 kB]
+Réception de:16 http://be.archive.ubuntu.com/ubuntu xenial-updates/restricted amd64 Packages [7.672 B]
+Réception de:17 http://be.archive.ubuntu.com/ubuntu xenial-updates/restricted i386 Packages [7.664 B]
+Réception de:18 http://be.archive.ubuntu.com/ubuntu xenial-updates/restricted Translation-en [2.644 B]
+Réception de:19 http://be.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 Packages [542 kB]
+Réception de:20 http://be.archive.ubuntu.com/ubuntu xenial-updates/universe i386 Packages [517 kB]
+Réception de:21 http://be.archive.ubuntu.com/ubuntu xenial-updates/universe Translation-en [220 kB]
+3.303 ko réceptionnés en 6s (498 ko/s)
+Lecture des listes de paquets…
